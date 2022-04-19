@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/merkvania.com/static/css/main.4d026c6a.css",
-    "main.js": "/merkvania.com/static/js/main.26e72e92.js",
-    "static/js/787.2173d09f.chunk.js": "/merkvania.com/static/js/787.2173d09f.chunk.js",
-    "index.html": "/merkvania.com/index.html",
-    "main.4d026c6a.css.map": "/merkvania.com/static/css/main.4d026c6a.css.map",
-    "main.26e72e92.js.map": "/merkvania.com/static/js/main.26e72e92.js.map",
-    "787.2173d09f.chunk.js.map": "/merkvania.com/static/js/787.2173d09f.chunk.js.map"
+    "main.css": "/static/css/main.4d026c6a.css",
+    "main.js": "/static/js/main.c4a641bc.js",
+    "static/js/787.2173d09f.chunk.js": "/static/js/787.2173d09f.chunk.js",
+    "index.html": "/index.html",
+    "main.4d026c6a.css.map": "/static/css/main.4d026c6a.css.map",
+    "main.c4a641bc.js.map": "/static/js/main.c4a641bc.js.map",
+    "787.2173d09f.chunk.js.map": "/static/js/787.2173d09f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d026c6a.css",
-    "static/js/main.26e72e92.js"
+    "static/js/main.c4a641bc.js"
   ]
 }
